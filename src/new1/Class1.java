@@ -1,7 +1,11 @@
 package new1;
 
+import org.openqa.selenium.WebDriver;
+
 public class Class1 {
 public static void main(String[] args) {
+	
+	WebDriver Drriver;
 	
 	System.out.println("hello world");
 	String name = "tirupati";
