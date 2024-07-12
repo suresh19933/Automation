@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 public class Class1 {
 public static void main(String[] args) {
 	
-	WebDriver Drriver;
+	WebDriver div;
 	
 	System.out.println("hello world");
 	String name = "tirupati";
